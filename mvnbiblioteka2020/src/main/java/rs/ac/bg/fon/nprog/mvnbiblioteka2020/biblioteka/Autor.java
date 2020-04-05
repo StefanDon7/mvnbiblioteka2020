@@ -8,6 +8,7 @@ package rs.ac.bg.fon.nprog.mvnbiblioteka2020.biblioteka;
  */
 public class Autor {
 	
+	
 	/**
 	 * Ime autora
 	 */
